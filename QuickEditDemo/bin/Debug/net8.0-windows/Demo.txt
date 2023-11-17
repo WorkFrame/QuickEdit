@@ -1,4 +1,0 @@
-Demo.txt - line 1
-Demo.txt - line 2
-Demo.txt - line 3
-EOF
