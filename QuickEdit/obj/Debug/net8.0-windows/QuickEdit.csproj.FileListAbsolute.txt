@@ -1,0 +1,13 @@
+C:\Users\micro\Documents\private4\WPF\openVishnu8\WorkFrame\QuickEdit\QuickEdit\obj\Debug\net8.0-windows\QuickEdit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micro\Documents\private4\WPF\openVishnu8\WorkFrame\QuickEdit\QuickEdit\obj\Debug\net8.0-windows\QuickEdit.AssemblyInfoInputs.cache
+C:\Users\micro\Documents\private4\WPF\openVishnu8\WorkFrame\QuickEdit\QuickEdit\obj\Debug\net8.0-windows\QuickEdit.AssemblyInfo.cs
+C:\Users\micro\Documents\private4\WPF\openVishnu8\WorkFrame\QuickEdit\QuickEdit\obj\Debug\net8.0-windows\QuickEdit.csproj.CoreCompileInputs.cache
+C:\Users\micro\Documents\private4\WPF\openVishnu8\WorkFrame\QuickEdit\QuickEdit\bin\Debug\net8.0-windows\NetEti.QuickEdit.deps.json
+C:\Users\micro\Documents\private4\WPF\openVishnu8\WorkFrame\QuickEdit\QuickEdit\bin\Debug\net8.0-windows\NetEti.QuickEdit.dll
+C:\Users\micro\Documents\private4\WPF\openVishnu8\WorkFrame\QuickEdit\QuickEdit\bin\Debug\net8.0-windows\NetEti.QuickEdit.pdb
+C:\Users\micro\Documents\private4\WPF\openVishnu8\WorkFrame\QuickEdit\QuickEdit\bin\Debug\net8.0-windows\NetEti.QuickEdit.xml
+C:\Users\micro\Documents\private4\WPF\openVishnu8\WorkFrame\QuickEdit\QuickEdit\obj\Debug\net8.0-windows\NetEti.QuickEdit.dll
+C:\Users\micro\Documents\private4\WPF\openVishnu8\WorkFrame\QuickEdit\QuickEdit\obj\Debug\net8.0-windows\refint\NetEti.QuickEdit.dll
+C:\Users\micro\Documents\private4\WPF\openVishnu8\WorkFrame\QuickEdit\QuickEdit\obj\Debug\net8.0-windows\NetEti.QuickEdit.xml
+C:\Users\micro\Documents\private4\WPF\openVishnu8\WorkFrame\QuickEdit\QuickEdit\obj\Debug\net8.0-windows\NetEti.QuickEdit.pdb
+C:\Users\micro\Documents\private4\WPF\openVishnu8\WorkFrame\QuickEdit\QuickEdit\obj\Debug\net8.0-windows\ref\NetEti.QuickEdit.dll

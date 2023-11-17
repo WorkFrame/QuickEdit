@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>NetEti.$(MSBuildProjectName)</AssemblyName>
+    <RootNamespace>NetEti.FileTools</RootNamespace>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <Title>$(AssemblyName) - calls notepad with path or content</Title>
+    <Description>$(AssemblyName) - calls notepad with path or content</Description>
+    <Authors>Erik Nagel</Authors>
+    <Company>NetEti</Company>
+    <Copyright>Copyright © $(Authors) 2023-2023</Copyright>
+    <AssemblyVersion>8.0.0.0</AssemblyVersion>
+    <FileVersion>8.0.0.0</FileVersion>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>NetEti.DemoApplications</RootNamespace>
+    <Title>$(AssemblyName) - Demoprogramm</Title>
+    <Description>$(AssemblyName) - Demoprogramm</Description>
+    <Authors>Erik Nagel</Authors>
+    <Company>NetEti</Company>
+    <Copyright>Copyright © $(Authors) 2023-2023</Copyright>
+    <AssemblyVersion>8.0.0.0</AssemblyVersion>
+    <FileVersion>8.0.0.0</FileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QuickEdit\QuickEdit.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Demo.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
