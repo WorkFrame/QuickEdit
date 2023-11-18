@@ -17,4 +17,9 @@
     <FileVersion>8.0.0.0</FileVersion>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <AssemblyRoot>$(ProjectDir)../../../ReadyBin/Assemblies</AssemblyRoot>
+  </PropertyGroup>
+  <Import Project="$(ProjectDir)../../AddOn/proj/*" Condition="exists('$(ProjectDir)../../AddOn/proj')" />
+
 </Project>
