@@ -31,7 +31,7 @@ namespace NetEti.FileTools
                 {
                     if (String.IsNullOrEmpty(path))
                     {
-                        path = getTempLogPath();
+                        path = GetTempLogPath();
                     }
                     if (lines != null)
                     {
@@ -53,8 +53,8 @@ namespace NetEti.FileTools
         /// <summary>
         /// Statisch, ermittelt den Default für Logfile- Pfad und Namen.
         /// </summary>
-        /// <returns></returns>
-        public static string getTempLogPath()
+        /// <returns>Default Logdatei-Pfad im TEMP-Verzeichnis.</returns>
+        public static string GetTempLogPath()
         {
             string logFilePathName = Environment.GetEnvironmentVariable("TEMP") ?? "";
             string productName = "";
