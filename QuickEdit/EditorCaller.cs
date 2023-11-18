@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace QuickEdit
+namespace NetEti.FileTools
 {
     /// <summary>
     /// Gibt Textzeilen oder eine existierende Textdatei in NotePad.exe aus.

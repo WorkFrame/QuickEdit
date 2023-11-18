@@ -1,6 +1,6 @@
-﻿using QuickEdit;
+﻿using NetEti.FileTools;
 
-namespace QuickEditDemo
+namespace NetEti.DemoApplications
 {
     internal class Program
     {
